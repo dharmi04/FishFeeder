@@ -1,7 +1,5 @@
-streamlit
-ultralytics
-opencv-python-headless==4.9.0.80
-torch
-torchvision
-numpy>=1.26.1
-pillow
+streamlit==1.38.0
+ultralytics==8.2.15
+opencv-python-headless==4.10.0.84
+pillow==10.4.0
+numpy==1.26.4
